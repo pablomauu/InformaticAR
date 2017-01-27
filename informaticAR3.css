@@ -1,0 +1,6 @@
+.box-categories { height:383px; }
+.buscar-buscar { height:252px; }
+
+.product-info .product-desc
+{ background: none;
+ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='imagenes/info.png', sizingMethod='scale');}
